@@ -1,0 +1,9 @@
+-----   /usr/bin/wget -N -q -t 1 http://erp.conceptosefectivos.com/tickets/api/leer_mensajes_soporte_2erp_f.php
+
+-----   /usr/bin/wget -N -q -t 1 https://www.nutrimentospurina.com/adminweb/encuestasdinamicas/notificar_usuarios.php
+
+-----   /usr/bin/wget -q -t 1 -P/tmp https://www.nutrimentospurina.com/admin/cronjob/notificar_quejas_no_atendidas_CiertasHoras.php
+
+
+
+/usr/bin/wget -N -q -t 1 http://www.icemerida.org/clases/cronj_v.php
